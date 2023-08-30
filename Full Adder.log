@@ -1,0 +1,26 @@
+Circuit: * D:\FPGA\Half Adder\Full Adder.asc
+
+WARNING: Less than two connections to node B.  This node is used by A3.
+WARNING: Less than two connections to node D.  This node is used by A13.
+WARNING: Less than two connections to node CARRY.  This node is used by A15.
+WARNING: Less than two connections to node A.  This node is used by A18.
+WARNING: Less than two connections to node C.  This node is used by A8.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Jun 20 17:24:52 2023
+Total elapsed time: 0.525 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4466
+traniter = 4463
+tranpoints = 2078
+accept = 2045
+rejected = 33
+matrix size = 38
+fillins = 0
+solver = Normal
+Matrix Compiler1: 684 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 1.57 KB object code size  0.1/0.2/[0.1]
+
